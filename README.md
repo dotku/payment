@@ -19,3 +19,23 @@ With this project, I compare different gateways, including:
 9. Apple Pay
 10. Google Pay
 11. Klarna, Affirm, Afterpay
+
+### Unsubscribe Service
+
+One click to unsubscribe not neccessary service.
+
+### Next Payment
+
+Try to put all payment service together and manage them
+
+### Best International Payment
+
+Find the best payment service that support international payment
+
+### Crypto Payment
+
+Dive into Crypto Payment service
+
+### QR Pay
+
+Payment use QR Pay
